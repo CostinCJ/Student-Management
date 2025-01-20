@@ -1,0 +1,20 @@
+1,English
+2,Art
+3,Greek
+4,Greek
+5,Sociology
+6,Chemistry
+7,Latin
+8,Romanian
+9,Greek
+10,Philosophy
+11,Art
+12,Religion
+13,Geography
+14,Spanish
+15,Civic Education
+16,Latin
+17,Religion
+18,History
+19,Latin
+20,Physical Education

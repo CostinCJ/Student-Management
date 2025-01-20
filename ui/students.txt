@@ -1,0 +1,20 @@
+1,Burz Andra
+2,Goia Rares
+3,Joldes Alexia
+4,Pasca Andrei
+5,Pasca Costin
+6,Joldes Rares
+8,Onet Andra
+9,Goia Andra
+10,Vasiu Andra
+11,Vasiu Cristian
+12,Pasca Ionut
+13,Pasca Cristian
+15,Burz Cristian
+16,Goia Rares
+17,Pasca Andrei
+18,Balea Ionut
+19,Vasiu Andrei
+20,Balea Costin
+123,ff
+143,rt
